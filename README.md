@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
 # Description
-This is a Sub-5ppm/°C Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
+This is a Leaky integrate-and-fire (LIF) by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav K Pathak.
 
 Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
 
