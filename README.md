@@ -1,18 +1,27 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
-# Tiny Tapeout Analog Project Template
+# Description
+This is a Sub-5ppm/°C Higher order Temperature Compensated Voltage Reference with a High PSRR designed by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav Pathak.
 
-- [Read the documentation for project](docs/info.md)
+Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
 
-## What is Tiny Tapeout?
+People Involved:
+1. [**Adarsh Kumar**](https://www.linkedin.com/in/adarsh-kumar-2848682a9/)  
+   Email: [adarshkrnitap07@gmail.com](mailto:adarshkrnitap07@gmail.com)
+   
+3. [**Nithin P**](https://www.linkedin.com/in/nithin-purushothama-70664727b/)  
+   Email: [nithinpurushothama@gmail.com](mailto:nithinpurushothama@gmail.com)
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
+4. [**Prof. Madhav Pathak**](https://iitgn.ac.in/faculty/ee/fac-madhav)  
+   Email: [madhav.pathak@iitgn.ac.in](mailto:madhav.pathak@iitgn.ac.in)
 
-To learn more and get started, visit https://tinytapeout.com.
+
+<!--
 
 ## Analog projects
 
 For specifications and instructions, see the [analog specs page](https://tinytapeout.com/specs/analog/).
+
 
 ## Enable GitHub actions to build the results page
 
@@ -25,6 +34,16 @@ For specifications and instructions, see the [analog specs page](https://tinytap
 - [Learn how semiconductors work](https://tinytapeout.com/siliwiz/)
 - [Join the community](https://tinytapeout.com/discord)
 
+-->
+
+# Layout
+<!--
+![image](https://github.com/user-attachments/assets/88997179-0b19-4247-9a9a-c38ebc5afbdd)
+-->
+For 3D image look here: [3D Image](https://gds-viewer.tinytapeout.com/?model=https://low-power-circuits-iot-systems-group.github.io/LPCAS_TP1/tinytapeout.gds&process=SKY130)
+
+<!--
+
 ## What next?
 
 - [Submit your design to the next shuttle](https://app.tinytapeout.com/).
@@ -33,3 +52,4 @@ For specifications and instructions, see the [analog specs page](https://tinytap
   - LinkedIn [#tinytapeout](https://www.linkedin.com/search/results/content/?keywords=%23tinytapeout) [@TinyTapeout](https://www.linkedin.com/company/100708654/)
   - Mastodon [#tinytapeout](https://chaos.social/tags/tinytapeout) [@matthewvenn](https://chaos.social/@matthewvenn)
   - X (formerly Twitter) [#tinytapeout](https://twitter.com/hashtag/tinytapeout) [@matthewvenn](https://twitter.com/matthewvenn)
+-->
