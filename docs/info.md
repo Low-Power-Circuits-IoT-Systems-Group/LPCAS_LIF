@@ -1,20 +1,31 @@
-<!---
+## Author
+Adarsh Kumar, Nithin P, Prof. Madhav K Pathak
 
-This file is used to generate your project datasheet. Please fill in the information below and delete any unused
-sections.
 
-You can also include images in this folder and reference them in the markdown. Each image must be less than
-512 kb in size, and the combined size of all images must be less than 1 MB.
--->
+## Description
+This is a Leaky integrate-and-fire (LIF) by Low-Power Circuits & Systems Lab of IIT Gandhinagar under the supervision of Prof. Madhav K Pathak.
+
+Lab Website: https://sites.google.com/iitgn.ac.in/madhav-pathak
+
+People Involved:
+1. [Adarsh Kumar](https://www.linkedin.com/in/adarsh-kumar-2848682a9/)
+2. [Nithin P](https://www.linkedin.com/in/nithin-purushothama-70664727b/)
+3. [Prof. Madhav Pathak](https://iitgn.ac.in/faculty/ee/fac-madhav)
 
 ## How it works
 
-Explain how your project works
+It works
 
 ## How to test
 
-Explain how to use your project
+It is tested by 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Equipment Required:
+1. Power supply(1.8V and 3.3V)
+2. High Impedance Probes
+3. Oscilloscope
+
+## language   
+Python
