@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "LPCAS LIF TAPEOUT"      # Project title
+  title:        "LPCAS LIF"      # Project title
   author:       "Adarsh Kumar, Nithin Purushothama, Madhav Pathak"      # Your name
   discord:      "nithinpuru_ams"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This Project has been done by LPCAS@IIT Gandhinagar Lab under the supervision of Prof. Madhav Pathak"      # One line description of what your project does
